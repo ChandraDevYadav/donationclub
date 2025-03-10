@@ -1,0 +1,11 @@
+/* Add the custom font family */
+:root {
+    --anity-font-two: 'Your Custom Font Name', sans-serif;
+  }
+  
+  /* Example of font-face declaration (if needed) */
+  @font-face {
+    font-family: 'Your Custom Font Name';
+    src: url('/path-to-your-font.woff2') format('woff2');
+  }
+  
